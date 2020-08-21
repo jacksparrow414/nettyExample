@@ -8,7 +8,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.example.netty</groupId>
     <artifactId>helloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>helloworld</name>
